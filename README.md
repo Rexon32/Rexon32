@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Linus  
+# 👋 Hi, ich bin Rexon
 
 
 Willkommen in meinem GitHub-Portfolio!  
